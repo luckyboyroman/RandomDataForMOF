@@ -10,7 +10,6 @@ int main()
 	//srand(time(NULL));
 
 	const int examples = 1000;
-	cout << examples << endl;
 	//Polygon P;
 	//P.setN(4);
 	//Point p0(4, 2);
